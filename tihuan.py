@@ -9,3 +9,5 @@ with open(file, 'w', encoding='utf-8') as f:
          eachline = eachline.replace(r'3410', '3420')
          #eachline = eachline.replace(r'发电机组', '风机')
          f.write(eachline)
+         
+#111111111111111
